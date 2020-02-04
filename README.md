@@ -1,5 +1,7 @@
 # node-restapi
 
+To run locally, you'll need to run "npm install" and then "node app.js"
+
 Endpoints
 /api/v1/parse (POST)
 /api/v2/parse (POST)
@@ -29,3 +31,7 @@ Expected Results
         clientId: “999-4567”
     }
 }
+
+http://localhost:3000/ returns the data.json 
+http://localhost:3000/api/v1/parse
+http://localhost:3000/api/v2/parse
