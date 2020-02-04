@@ -1,5 +1,6 @@
 # node-restapi
 
+Simple example of how to create a RESTful API using node and express.
 To run locally, you'll need to run "npm install" and then "node app.js"
 
 Endpoints
